@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="https://www.alfredapp.com/media/logo.png" /></div>
+<div style="text-align:center"><img src="https://www.alfredapp.com/media/logo.png" align="center"/></div>
 <h1 align="center">Alfred Workflows</h1>
 <p align="center">🎩 My collection of Alfred Workflows</p>
 
