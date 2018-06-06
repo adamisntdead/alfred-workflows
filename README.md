@@ -4,11 +4,20 @@
 
 ## Open In VSCode
 
-Open A Given File In Visual Studio Code
+> Open A Given File In Visual Studio Code
 
 In Alfred, type `code <thing you want to open>` and hit `Enter`.
 
 ![Screenshot](https://github.com/adamisntdead/alfred-workflows/blob/master/media/vscode.png?raw=true)
+
+## Open Hacker News
+
+> A simple workflow to open [Hacker News](https://news.ycombinator.com).
+
+In Alfred, type `hn` and hit `Enter`.
+
+![Screenshot](https://github.com/adamisntdead/alfred-workflows/blob/master/media/hn.png?raw=true)
+
 
 ## License
 MIT © Adam Kelly
